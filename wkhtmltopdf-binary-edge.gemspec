@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
-  s.name = 'wkhtmltopdf-binary-edge'
+  s.name = 'wkhtmltopdf-binary-aws'
   s.version = '0.12.2.1'
   s.summary = 'Provides binaries for WKHTMLTOPDF project in an easily accessible package. - forked from wkhtmltopdf-binary'
   s.description = 'Includes wkthmltopdf binaires for MacOSX and Ubuntu 14(32bit & 64bit)'
