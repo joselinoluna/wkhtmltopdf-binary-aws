@@ -13,6 +13,6 @@ gem 'wkhtmltopdf-binary-aws', github: 'joselinoluna/wkhtmltopdf-binary-aws'
 
 included binaries
 
-* Amazon Linux 64-bit
+* Amazon Linux 64-bit (CentOS 6 64-bit)
 * OS X 10.6+ (Carbon)	  32-bit (currently 32bit build works better
   than 64 bit build)
