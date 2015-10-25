@@ -5,11 +5,13 @@ This is forked from JTimings/wkhtmltopdf-binary-edge.
 In your `Gemfile`:
 
 ```ruby
-gem 'wkhtmltopdf-binary-aws', github: 'joselinoluna/wkhtmltopdf-binary-aws'
+gem 'wkhtmltopdf-binary-edge', github: 'joselinoluna/wkhtmltopdf-binary-edge'
 ```
 
 ### current version 0.12.2.1
 [wkhtmltopdf changes](https://github.com/wkhtmltopdf/wkhtmltopdf/releases/tag/0.12.2.1)
+
+This is for AWS Amazon Linux or CentOS 6
 
 included binaries
 
