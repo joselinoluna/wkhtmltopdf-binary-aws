@@ -1,4 +1,4 @@
-# wkhtmltopdf-binary-aws
+# wkhtmltopdf-binary-edge
 This is forked from JTimings/wkhtmltopdf-binary-edge.
 
 ## Installation
